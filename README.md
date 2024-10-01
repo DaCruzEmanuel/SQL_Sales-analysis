@@ -75,9 +75,9 @@ The product prices range from $2.99 to $39.99.
 - **Store Performance**: Store X emerged as the top-performing location in terms of revenue generation.
 
 ## Available Resources
-- **Datasets**: All raw data files are available in the repository.
+- **Datasets**: All raw data files are available in the repository [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/upload/main/Datasets).
 - **SQL Script**: A complete script containing all SQL queries used in this project is available [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/blob/main/SQL_MavenToys%20Sales%20analysis.sql).
-- **Tutorial**: A guide on how to create the database and import the datasets using Microsoft SQL Server Management Studio (SSMS) is also included.
+- **Tutorial**: A guide on how to create the database and import the datasets using Microsoft SQL Server Management Studio (SSMS) is also included [here]().
 
 ## Conclusion
 This project helped uncover valuable insights into Maven Toys' sales and inventory data. By leveraging advanced SQL techniques, I was able to identify top-performing products, assess stock levels, and analyze store profitability. The detailed analysis and SQL queries are accessible in the repository for further exploration.

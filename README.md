@@ -77,7 +77,7 @@ The product prices range from $2.99 to $39.99.
 ## Available Resources
 - **Datasets**: All raw data files are available in the repository [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/upload/main/Datasets).
 - **SQL Script**: A complete script containing all SQL queries used in this project is available [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/blob/main/SQL_MavenToys%20Sales%20analysis.sql).
-- **Tutorial**: A guide on how to create the database and import the datasets using Microsoft SQL Server Management Studio (SSMS) is also included [here]().
+- **Tutorial**: A guide on how to create the database and import the datasets using Microsoft SQL Server Management Studio (SSMS) is also included [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/blob/main/Tutorial%20-%20SQL%20database%20and%20import%20files.pdf).
 
 ## Conclusion
 This project helped uncover valuable insights into Maven Toys' sales and inventory data. By leveraging advanced SQL techniques, I was able to identify top-performing products, assess stock levels, and analyze store profitability. The detailed analysis and SQL queries are accessible in the repository for further exploration.

@@ -75,7 +75,7 @@ The product prices range from $2.99 to $39.99.
 - **Store Performance**: Store X emerged as the top-performing location in terms of revenue generation.
 
 ## Available Resources
-- **Datasets**: All raw data files are available in the repository [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/upload/main/Datasets).
+- **Datasets**: All raw data files are available in the repository [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/tree/main/Datasets).
 - **SQL Script**: A complete script containing all SQL queries used in this project is available [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/blob/main/SQL_MavenToys%20Sales%20analysis.sql).
 - **Tutorial**: A guide on how to create the database and import the datasets using Microsoft SQL Server Management Studio (SSMS) is also included [here](https://github.com/DaCruzEmanuel/SQL_Sales-analysis/blob/main/Tutorial%20-%20SQL%20database%20and%20import%20files.pdf).
 
